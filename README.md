@@ -3,7 +3,7 @@ zipdf
 
 ZIPに圧縮されたJPEG画像をPDFへまとめます。
 
-## 使っているplug-in
+## 使っているライブラリ
 - zipruby
 - prawn
 
